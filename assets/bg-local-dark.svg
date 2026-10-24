@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 200" width="390" height="200" role="img" aria-label="Local-first tools. Browser tooling that keeps user data local."><style>
+text{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif}
+.k{font-size:12px;font-weight:600;letter-spacing:1.5px;fill:#2997ff}
+.h{font-size:40px;font-weight:700;letter-spacing:-1px;fill:#f5f5f7}
+.t{font-size:26px;font-weight:600;letter-spacing:-.5px;fill:#f5f5f7}
+.b{font-size:15px;font-weight:400;fill:#a1a1a6}
+.c{font-size:12px;font-weight:500;fill:#a1a1a6}
+.in{opacity:0;animation:in .9s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.sw{stroke-dasharray:90 910;animation:sw 6s linear infinite}
+@keyframes sw{to{stroke-dashoffset:-1000}}
+.pu{animation:pu 2.4s ease-in-out infinite}@keyframes pu{50%{opacity:.3}}
+.fl{animation:fl 3.2s ease-in-out infinite}@keyframes fl{50%{transform:translateY(-5px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+</style>
+<g class="in" style="animation-delay:0.3s">
+<rect x="1" y="1" width="388" height="198" rx="22" fill="#1c1c1e" stroke="#2c2c2e"/>
+<rect class="sw" x="1" y="1" width="388" height="198" rx="22" fill="none" stroke="#2997ff" stroke-width="2" stroke-opacity=".7" pathLength="1000" style="animation-delay:0.8999999999999999s"/>
+<circle class="pu" cx="356" cy="36" r="5" fill="#2997ff"/>
+<text class="k" x="28" y="40">PRINCIPLE</text><text class="t" x="28" y="68">Local-first tools</text><text class="b" x="28" y="88">Browser tooling that keeps user data local.</text><rect x="28" y="154" width="75" height="28" rx="14" fill="#2c2c2e" stroke="#3a3a3c"/><text class="c" x="65.5" y="172" text-anchor="middle">Privacy</text><rect x="111" y="154" width="96" height="28" rx="14" fill="#2c2c2e" stroke="#3a3a3c"/><text class="c" x="159.0" y="172" text-anchor="middle">Local data</text></g></svg>
