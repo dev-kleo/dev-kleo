@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 190" width="590" height="190" role="img" aria-label="ragbot. RAG platform for university documents with page-level citations and a local LLM via Ollama."><style>
+.k{font:600 14px 'SFMono-Regular',Consolas,monospace;fill:#ff6a2b;letter-spacing:3px}
+.h{font:800 44px Impact,'Arial Narrow',sans-serif;fill:#f7f9f8;letter-spacing:1px}
+.t{font:700 26px Impact,'Arial Narrow',sans-serif;fill:#f7f9f8;letter-spacing:.5px}
+.b{font:400 16px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#cfe7ea}
+.c{font:600 13px 'SFMono-Regular',Consolas,monospace;fill:#f7f9f8}
+.in{opacity:0;animation:in .9s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.ln{stroke-dasharray:1200;stroke-dashoffset:1200;animation:ln 1.6s .2s ease-out forwards}
+@keyframes ln{to{stroke-dashoffset:0}}
+.sw{stroke-dasharray:60 1000;animation:sw 5s linear infinite}
+@keyframes sw{to{stroke-dashoffset:-1060}}
+.pu{animation:pu 2.4s ease-in-out infinite}@keyframes pu{50%{opacity:.35}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;stroke-dashoffset:0!important}}
+</style>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07606b"/><stop offset="1" stop-color="#032f36"/></linearGradient></defs>
+<g class="in" style="animation-delay:0s">
+<rect x="2" y="2" width="586" height="186" rx="18" fill="url(#g)" stroke="#2fb4c4" stroke-opacity=".35" stroke-width="1.5"/>
+<rect class="sw" x="2" y="2" width="586" height="186" rx="18" fill="none" stroke="#ff6a2b" stroke-width="2.5" pathLength="1000" style="animation-delay:0s"/>
+<circle cx="550" cy="40" r="6" fill="#ff6a2b" class="pu"/>
+<text class="k" x="28" y="36">RAG PLATFORM</text><text class="t" x="28" y="64">ragbot</text><text class="b" x="28" y="84">RAG platform for university documents with page-level citations</text><text class="b" x="28" y="108">and a local LLM via Ollama.</text><rect x="28" y="156" width="80" height="26" rx="13" fill="#06525c" stroke="#2fb4c4" stroke-opacity=".6"/><text class="c" x="68.0" y="174" text-anchor="middle">FastAPI</text><rect x="116" y="156" width="88" height="26" rx="13" fill="#06525c" stroke="#2fb4c4" stroke-opacity=".6"/><text class="c" x="160.0" y="174" text-anchor="middle">pgvector</text><rect x="212" y="156" width="72" height="26" rx="13" fill="#06525c" stroke="#2fb4c4" stroke-opacity=".6"/><text class="c" x="248.0" y="174" text-anchor="middle">bge-m3</text></g></svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 76" width="1200" height="76" role="img" aria-label="Selected projects"><style>
+.k{font:600 14px 'SFMono-Regular',Consolas,monospace;fill:#ff6a2b;letter-spacing:3px}
+.h{font:800 44px Impact,'Arial Narrow',sans-serif;fill:#f7f9f8;letter-spacing:1px}
+.t{font:700 26px Impact,'Arial Narrow',sans-serif;fill:#f7f9f8;letter-spacing:.5px}
+.b{font:400 16px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#cfe7ea}
+.c{font:600 13px 'SFMono-Regular',Consolas,monospace;fill:#f7f9f8}
+.in{opacity:0;animation:in .9s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.ln{stroke-dasharray:1200;stroke-dashoffset:1200;animation:ln 1.6s .2s ease-out forwards}
+@keyframes ln{to{stroke-dashoffset:0}}
+.sw{stroke-dasharray:60 1000;animation:sw 5s linear infinite}
+@keyframes sw{to{stroke-dashoffset:-1060}}
+.pu{animation:pu 2.4s ease-in-out infinite}@keyframes pu{50%{opacity:.35}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;stroke-dashoffset:0!important}}
+</style>
+<rect width="1200" height="76" rx="16" fill="#032f36"/><rect x="0" y="0" width="1200" height="76" rx="16" fill="none" stroke="#2fb4c4" stroke-opacity=".3"/>
+<g class="in"><circle class="pu" cx="30" cy="22" r="5" fill="#ff6a2b"/><text class="k" x="46" y="27">02 / SELECTED PROJECTS</text></g>
+<text class="h in" x="28" y="64" style="animation-delay:.1s">Selected projects</text>
+<line class="ln" x1="28" y1="72" x2="1172" y2="72" stroke="#ff6a2b" stroke-width="2"/></svg>

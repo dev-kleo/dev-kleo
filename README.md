@@ -6,21 +6,31 @@
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## Background and interests
-- Economics and international business, with a focus on how information and prices reach decision makers.
-- Retrieval-augmented generation for universities: answers grounded in official documents, with citations and a refusal when retrieval is weak.
-- Browser tooling that keeps user data local.
+<img src="assets/h-background.svg" alt="Background" width="100%">
 
-## Selected projects
-- **[ragbot](https://github.com/dev-kleo/ragbot)**: RAG platform for university documents. FastAPI, PostgreSQL + pgvector, bge-m3 embeddings, local LLM via Ollama, page-level citations.
-- **[Uniassist](https://github.com/dev-kleo/Uniassist)**: platform that brings academics, resources and campus needs into one place for students.
-- **[price-tracker](https://github.com/dev-kleo/price-tracker)**: Chrome extension (MV3) tracking prices on Ozon, Wildberries and Yandex Market. Local-only data, 150+ automated browser tests.
-- **[OpenHighlights](https://github.com/dev-kleo/InkMind)**: Chrome extension for highlighting web pages.
+<table><tr>
+<td width="33%"><img src="assets/bg-economics.svg" alt="Economics: international business, with a focus on how information and prices reach decision makers." width="100%"></td>
+<td width="33%"><img src="assets/bg-rag.svg" alt="Grounded RAG: answers for universities grounded in official documents, with citations and a refusal when retrieval is weak." width="100%"></td>
+<td width="33%"><img src="assets/bg-local.svg" alt="Local-first tools: browser tooling that keeps user data local." width="100%"></td>
+</tr></table>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="assets/h-projects.svg" alt="Selected projects" width="100%">
 
-## Stack
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/dev-kleo/ragbot"><img src="assets/p-ragbot.svg" alt="ragbot: RAG platform for university documents. FastAPI, PostgreSQL + pgvector, bge-m3 embeddings, local LLM via Ollama, page-level citations." width="100%"></a></td>
+<td width="50%"><a href="https://github.com/dev-kleo/Uniassist"><img src="assets/p-uniassist.svg" alt="Uniassist: platform that brings academics, resources and campus needs into one place for students." width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/dev-kleo/price-tracker"><img src="assets/p-price-tracker.svg" alt="price-tracker: Chrome extension (MV3) tracking prices on Ozon, Wildberries and Yandex Market. Local-only data, 150+ automated browser tests." width="100%"></a></td>
+<td width="50%"><a href="https://github.com/dev-kleo/InkMind"><img src="assets/p-openhighlights.svg" alt="OpenHighlights: Chrome extension for highlighting web pages." width="100%"></a></td>
+</tr>
+</table>
+
+<img src="assets/h-stack.svg" alt="Stack" width="100%">
+
 <img src="assets/stack.svg" alt="Python, FastAPI, PostgreSQL, pgvector, TypeScript, Next.js, Docker, Playwright" width="100%">
 
-## Contact
+<img src="assets/h-contact.svg" alt="Contact" width="100%">
+
 [deyintelligence.com](https://deyintelligence.com) · [hello.deyabhishek@gmail.com](mailto:hello.deyabhishek@gmail.com)
