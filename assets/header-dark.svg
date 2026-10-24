@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Cleo. AI engineer and product builder."><style>
+text{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif}
+.k{font-size:12px;font-weight:600;letter-spacing:1.5px;fill:#2997ff}
+.h{font-size:40px;font-weight:700;letter-spacing:-1px;fill:#f5f5f7}
+.t{font-size:26px;font-weight:600;letter-spacing:-.5px;fill:#f5f5f7}
+.b{font-size:15px;font-weight:400;fill:#a1a1a6}
+.c{font-size:12px;font-weight:500;fill:#a1a1a6}
+.in{opacity:0;animation:in .9s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.sw{stroke-dasharray:90 910;animation:sw 6s linear infinite}
+@keyframes sw{to{stroke-dashoffset:-1000}}
+.pu{animation:pu 2.4s ease-in-out infinite}@keyframes pu{50%{opacity:.3}}
+.fl{animation:fl 3.2s ease-in-out infinite}@keyframes fl{50%{transform:translateY(-5px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000000"/><stop offset="1" stop-color="#111113"/></linearGradient>
+<filter id="bl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter><clipPath id="cp"><rect width="1200" height="340" rx="26"/></clipPath></defs>
+<g clip-path="url(#cp)"><rect width="1200" height="340" fill="url(#bg)"/>
+<g filter="url(#bl)" opacity=".45">
+<circle cx="880" cy="120" r="120" fill="#2997ff"><animate attributeName="cx" values="880;960;880" dur="9s" repeatCount="indefinite"/><animate attributeName="cy" values="120;190;120" dur="9s" repeatCount="indefinite"/></circle>
+<circle cx="1040" cy="230" r="110" fill="#bf5af2"><animate attributeName="cx" values="1040;940;1040" dur="11s" repeatCount="indefinite"/><animate attributeName="cy" values="230;120;230" dur="11s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="260" r="90" fill="#ff6a2b"><animate attributeName="cx" values="760;850;760" dur="13s" repeatCount="indefinite"/></circle></g>
+<g class="in"><text x="64" y="150" style="font-size:104px;font-weight:700;letter-spacing:-4px;fill:#f5f5f7">Cleo.</text></g>
+<g class="in" style="animation-delay:.3s"><text x="68" y="206" style="font-size:20px;font-weight:600;fill:#2997ff">Abhishek Dey</text></g>
+<g style="font-size:26px;font-weight:500;fill:#a1a1a6">
+<text x="68" y="262" opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.04;.22;.26;1" dur="12s" repeatCount="indefinite"/>AI engineer and product builder.</text>
+<text x="68" y="262" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.25;.29;.47;.51;1" dur="12s" repeatCount="indefinite"/>RAG assistants that cite their sources.</text>
+<text x="68" y="262" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.5;.54;.72;.76;1" dur="12s" repeatCount="indefinite"/>Chrome extensions that keep data local.</text>
+<text x="68" y="262" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.75;.79;.97;1" dur="12s" repeatCount="indefinite"/>MSc Economics, South Ural State University.</text></g></g></svg>

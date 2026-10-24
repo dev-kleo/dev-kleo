@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 84" width="1200" height="84" role="img" aria-label="Contact"><style>
+text{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif}
+.k{font-size:12px;font-weight:600;letter-spacing:1.5px;fill:#0066cc}
+.h{font-size:40px;font-weight:700;letter-spacing:-1px;fill:#1d1d1f}
+.t{font-size:26px;font-weight:600;letter-spacing:-.5px;fill:#1d1d1f}
+.b{font-size:15px;font-weight:400;fill:#6e6e73}
+.c{font-size:12px;font-weight:500;fill:#6e6e73}
+.in{opacity:0;animation:in .9s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.sw{stroke-dasharray:90 910;animation:sw 6s linear infinite}
+@keyframes sw{to{stroke-dashoffset:-1000}}
+.pu{animation:pu 2.4s ease-in-out infinite}@keyframes pu{50%{opacity:.3}}
+.fl{animation:fl 3.2s ease-in-out infinite}@keyframes fl{50%{transform:translateY(-5px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+</style>
+<g class="in"><text class="k" x="4" y="22">04 · CONTACT</text>
+<text class="h" x="2" y="64">Contact</text></g>
+<rect x="0" y="80" width="1200" height="1.5" fill="#d2d2d7"/>
+<rect class="sw" x="0" y="79.5" width="1200" height="2.5" fill="#0066cc" style="stroke:none;animation:none;width:140px;opacity:.9"><animate attributeName="x" values="-140;1200" dur="5s" repeatCount="indefinite"/></rect></svg>
